@@ -28,4 +28,4 @@ def compress(str1):
 
 if __name__ == "__main__":
     print(compress("AAAAABBBBBBBCCCCCDE"))
-    print(compress("ABCDEF))
+    print(compress("ABCDEF"))
